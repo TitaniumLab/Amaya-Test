@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de946cc95f6b3784dbc3231fdbbae431, type: 3}
+  m_Name: 3LevelGridData
+  m_EditorClassIdentifier: 
+  <LevelGridSize>k__BackingField:
+  - {x: 3, y: 1}
+  - {x: 3, y: 2}
+  - {x: 3, y: 3}
+  <CellSize>k__BackingField: {x: 1, y: 1}
+  <CellGap>k__BackingField: {x: 0.1, y: 0.1}
+  <CellPrefab>k__BackingField: {fileID: 5122843386250785890, guid: 99b91c28e4f8cb944a8c2bc4a0574b9d, type: 3}
+  <FieldPrefab>k__BackingField: {fileID: 770664678940124124, guid: 392b5841f6ef53047b4f3fd0dc61e1fd, type: 3}
