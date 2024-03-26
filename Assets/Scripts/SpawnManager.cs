@@ -1,17 +1,22 @@
+using System;
+using TMPro;
 using UnityEngine;
 
 
-public class GridManager : MonoBehaviour
+public class SpawnManager : MonoBehaviour
 {
     [SerializeField] private GridData _gridData;
     [SerializeField] private int _nextLevel = 0;
+    public static Action OnLevelComplete = delegate { };
+
 
     private void Awake()
     {
+        OnLevelComplete += CreateNewGrid;
         CreateNewGrid();
     }
 
-    private void CreateNewGrid()
+    public void CreateNewGrid()
     {
         Vector2Int gridSize = _gridData.LevelGridSize[_nextLevel];
         Vector2 cellSize = _gridData.CellSize;
@@ -28,7 +33,7 @@ public class GridManager : MonoBehaviour
             for (int y = 0; y < gridSize.y; y++)
             {
                 SpriteRenderer cellSR = Instantiate(_gridData.CellPrefab, fieldSR.transform);
-                cellSR.size = cellSize;
+                cellSR.transform.localScale = cellSize;
                 float xTotelOffset = (cellGap.x * x + cellSize.x * x) - gridSize.x / 2 * xHalfOffset;
                 float yTotalOffset = (cellGap.y * y + cellSize.y * y) - gridSize.y / 2 * yHalfOffset;
                 cellSR.transform.localPosition = new Vector3(xTotelOffset, yTotalOffset);
