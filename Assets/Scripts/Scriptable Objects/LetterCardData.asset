@@ -22,3 +22,72 @@ MonoBehaviour:
   - <Identifier>k__BackingField: C
     <SpriteIcon>k__BackingField: {fileID: 3234300448368640894, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
     <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: D
+    <SpriteIcon>k__BackingField: {fileID: 7911670913450602933, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: E
+    <SpriteIcon>k__BackingField: {fileID: 4652326554734856401, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: F
+    <SpriteIcon>k__BackingField: {fileID: -6426668015567183463, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: G
+    <SpriteIcon>k__BackingField: {fileID: 216406037199867053, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: H
+    <SpriteIcon>k__BackingField: {fileID: -8235857483100294123, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: I
+    <SpriteIcon>k__BackingField: {fileID: -3541686595128163680, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: J
+    <SpriteIcon>k__BackingField: {fileID: -2756605603065543306, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: K
+    <SpriteIcon>k__BackingField: {fileID: -1127063002332224934, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: L
+    <SpriteIcon>k__BackingField: {fileID: -5901097786099144959, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: M
+    <SpriteIcon>k__BackingField: {fileID: 3295844289267200183, guid: c8cc9b4933a474c48999ea8d1df956c4, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: N
+    <SpriteIcon>k__BackingField: {fileID: 7112752472869403061, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: O
+    <SpriteIcon>k__BackingField: {fileID: 5433449995169814141, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: P
+    <SpriteIcon>k__BackingField: {fileID: -4252152113809563852, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: Q
+    <SpriteIcon>k__BackingField: {fileID: -4447791616812998045, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: R
+    <SpriteIcon>k__BackingField: {fileID: -6342808464625005154, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: S
+    <SpriteIcon>k__BackingField: {fileID: 8083504644574312765, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: T
+    <SpriteIcon>k__BackingField: {fileID: -4461999128152558772, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: U
+    <SpriteIcon>k__BackingField: {fileID: 3270655726746431581, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: V
+    <SpriteIcon>k__BackingField: {fileID: -2983290644488427326, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: W
+    <SpriteIcon>k__BackingField: {fileID: -9165466868132007793, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: X
+    <SpriteIcon>k__BackingField: {fileID: 4461586319009975920, guid: be791a6c639300f498aa7361c4438c05, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: Y
+    <SpriteIcon>k__BackingField: {fileID: -5001085640463096552, guid: b7d46806c8b1f714d9706a1d0c1dc400, type: 3}
+    <SpriteRotarion>k__BackingField: 0
+  - <Identifier>k__BackingField: Z
+    <SpriteIcon>k__BackingField: {fileID: 3539555106843919260, guid: b7d46806c8b1f714d9706a1d0c1dc400, type: 3}
+    <SpriteRotarion>k__BackingField: 0
